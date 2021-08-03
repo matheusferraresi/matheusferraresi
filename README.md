@@ -14,11 +14,11 @@
 </p>
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/matheusferraresi" alt="Linkedin">
+  <a href="https://www.linkedin.com/in/matheusferraresi" target="_blank" alt="Linkedin">
     <img src="https://img.shields.io/badge/-Linkedin-201D38?style=for-the-badge&logo=Linkedin&logoColor=A298E2&link=https://www.linkedin.com/in/matheusferraresi/"/>
   </a>
   
-  <a href="https://www.matheo.dev" alt="Portfolio">
+  <a href="https://www.matheo.dev" target="_blank" alt="Portfolio">
     <img src="https://img.shields.io/badge/portfolio%20-%23323330.svg?&style=for-the-badge&logo=perfil&logoColor=black&color=201D38&link=https://www.matheo.dev/"/>
   </a>
 </p>  
