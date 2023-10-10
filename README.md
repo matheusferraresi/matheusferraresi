@@ -6,7 +6,7 @@
 </p>
 
 <p align="left"> 
-  ✔ I am a <strong>Full Stack Engineer</strong>, UX/UI Enthusiast and a Data Scientist Wannabe
+  ✔ I am a <strong>Full Stack Software Engineer</strong>, UX/UI Enthusiast
 </p>
 
 <p align="left">
