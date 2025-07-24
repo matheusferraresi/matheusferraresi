@@ -1,4 +1,3 @@
-<br><br><br>
 <p align="left"> 
   🌐 Hello World! My name is quite large so... <strong>You can call me Matheus =D</strong>
 </p>
